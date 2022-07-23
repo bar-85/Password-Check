@@ -1,7 +1,7 @@
 
 <h1 align="center"> Password-Check </h1>
-<br />
-# Sprawdzanie hasła
+<h2 align="center"> Sprawdzanie hasła</h2>
+
 
 >"Password-Check" można zobaczyć pod adresem: https://bar-85.github.io/Password-Check/
 
